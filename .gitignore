@@ -1,0 +1,6 @@
+dat/*
+venv/*
+reference/*
+.idea/*
+.DS_Store
+*.pyc
